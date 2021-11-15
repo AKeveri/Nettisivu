@@ -37,15 +37,15 @@ h6 {
 }
 
 p {
-    color: rgb(187, 186, 187);
+    color: rgb(156, 156, 156);
 }
 
 h2 {
     font-size: 200%;
 }
 footer {
-    padding-top: 40px; text-align: center;
-    color: rgb(148, 148, 148);
+    padding-top: 50px; text-align: center;
+    
 
 }
 
@@ -68,7 +68,7 @@ a:hover {
 #clockDisplay {
     font-family: arial;
     font-weight: bold;
-    border: 1px solid;
+    border: 0px solid;
     width: 340px;
     padding: 5px;
     text-align: center;
@@ -97,5 +97,14 @@ a {
 
 h6 {
     font-size: 150%; font-family: garamond, serif;
+}
+
+h3 {
+    color: white;
+  text-shadow: 2px 2px 4px #000000;
+}
+
+body {
+    background-color: rgb(214, 214, 214);
 }
 
