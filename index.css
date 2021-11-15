@@ -5,7 +5,7 @@ h1 {
 
 
 p {
-    color: rgb(187, 186, 187); 
+    color: rgb(156, 156, 156); 
 }
 
 .col-sm-5 { float: right; padding: 30px;
@@ -50,9 +50,14 @@ a:hover {
 }
 
 footer {
-    padding-top: 40px; text-align: center;
-    color: rgb(148, 148, 148);
+    padding-top: 50px; text-align: center;
+    
 
+}
+
+h3 {
+    color: white;
+  text-shadow: 2px 2px 4px #000000;
 }
 
 img {
@@ -66,13 +71,17 @@ nav {
 #clockDisplay {
     font-family: arial;
     font-weight: bold;
-    border: 1px solid;
+    border: 0px solid;
     width: 340px;
     padding: 5px;
     text-align: center;
     border-radius: 35px;
     position: absolute; right: 10px;
     
+}
+
+body {
+    background-color: rgb(214, 214, 214);
 }
 
 
