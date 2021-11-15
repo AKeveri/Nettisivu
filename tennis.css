@@ -66,6 +66,18 @@ a:hover {
     transition: all 1.5s; color: red; font-size: 120%;
 }
 
+img.custom:hover 
+
+{
+    opacity: 1.0;
+}
+img.custom:hover,
+img.custom:focus 
+{
+    transition: 1.5s;
+    transform: scale(1.25);
+}
+
 #clockDisplay {
     font-family: arial;
     font-weight: bold;
