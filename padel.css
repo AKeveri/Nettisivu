@@ -1,0 +1,70 @@
+h1 {
+    padding-top: 60px; padding-left: 270px;
+}
+
+h4 { 
+    padding-top: 100px; padding-left: 75px;
+
+}
+
+#espoo {
+    padding-top: 40px; padding-left: 75px;
+ }
+
+ #muu {
+    padding-top: 40px; padding-left: 75px;
+}
+
+ a {
+    font-size: 120%; text-decoration: none; color: black;
+}
+
+li {
+    padding-top: 20px;
+}
+
+#välineitä {
+    padding-top: 60px;
+}
+
+p {
+    color: rgb(187, 186, 187);
+}
+
+h2 {
+    font-size: 200%;
+}
+
+#muut {
+    padding-top: 60px; padding-left: 120px;
+}
+
+footer {
+    padding-top: 40px; text-align: center;
+    color: rgb(148, 148, 148);
+
+}
+
+ul {
+    list-style-type: none;
+}
+
+img {
+    width: 450px; height: 300px;
+}
+
+#clockDisplay {
+    font-family: arial;
+    font-weight: bold;
+    border: 1px solid;
+    width: 340px;
+    padding: 5px;
+    text-align: center;
+    border-radius: 35px;
+    position: absolute; right: 10px;
+
+}
+
+nav {
+    padding-left: 15px;
+}
