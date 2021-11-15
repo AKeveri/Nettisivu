@@ -1,0 +1,78 @@
+
+h1 {
+    padding-top: 30px;
+}
+
+
+p {
+    color: rgb(187, 186, 187); 
+}
+
+.col-sm-5 { float: right; padding: 30px;
+    position: absolute; right: 0;
+
+}
+
+#Tennis {
+    padding-top: 150px;
+    padding-right: 120px; padding-left: 120px;
+}
+
+#Padel {
+    padding-top: 150px;
+    padding-right: 120px; padding-left: 120px;
+}
+
+.col-sm-6 {
+    padding-left: 310px; padding-top: 20px;
+}
+
+.figure {
+    padding: 10px;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+#teksti1 {
+    font-size: 300%; color: black;
+    text-decoration: none; 
+}
+a:hover {
+    transition: all 1.5s; color: red; font-size: 120%;
+}
+
+
+#teksti2 {
+    font-size: 300%; color: black;
+    text-decoration: none; 
+}
+
+footer {
+    padding-top: 40px; text-align: center;
+    color: rgb(148, 148, 148);
+
+}
+
+img {
+    width: 500px; height: 450px;
+}
+
+nav {
+    padding-left: 15px;
+}
+
+#clockDisplay {
+    font-family: arial;
+    font-weight: bold;
+    border: 1px solid;
+    width: 340px;
+    padding: 5px;
+    text-align: center;
+    border-radius: 35px;
+    position: absolute; right: 10px;
+    
+}
+
+
