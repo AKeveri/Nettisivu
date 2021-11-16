@@ -3,12 +3,12 @@ h1 {
 }
 
 h4 { 
-    padding-top: 100px; padding-left: 75px;
+    padding-top: 80px; padding-left: 150px;
 
 }
 
 #sisä {
-   padding-top: 18px; padding-left: 75px;
+   padding-top: 18px; padding-left: 150px;
 }
 
 .linkkilista ul li a {
@@ -22,19 +22,19 @@ li {
 }
 
 #massa {
-    padding-top: 55px; padding-left: 75px;
+    padding-top: 55px; padding-left: 150px;
 }
 
 #muu {
-    padding-top: 55px; padding-left: 75px;
+    padding-top: 55px; padding-left: 150px;
 }
 
 h6 {
-    padding-top: 50px; padding-left: 30px;
+    padding-top: 50px; padding-left: 100px;
 }
 
 #välineitä {
-    padding-top: 40px;
+    padding-top: 40px; padding-left: 40px;
 }
 
 p {
