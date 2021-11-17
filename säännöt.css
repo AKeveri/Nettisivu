@@ -35,28 +35,7 @@ h6 {
     padding-left: 80px
 }
 
-.uutinen {
-    padding-left: 130px;
-    padding-top: 70px; padding-bottom: 160px;
-}
 
-#amppari {
-    width:250px; height:250px;
-    padding-top: 60px; 
-    position: relative;
-	animation: mymove 5s infinite
-}
-
-@keyframes mymove {
-    from {left: 00px;}
-    to {left: 300px;}
-
-}
-
-.il {
-    text-decoration: none; color: red;
-    font-size: 120%;
-}
 
 footer {
     padding-top: 50px; text-align: center;
@@ -66,6 +45,18 @@ footer {
 h3 {
     color: white;
   text-shadow: 2px 2px 4px #000000;
+}
+
+img {
+    width: 500px; height: 300px;
+}
+
+.otsikot {
+    padding-top: 30px; padding-left: 60px;
+}
+
+.kuvat {
+    padding-top: 30px; padding-left: 60px;
 }
 
 body {
