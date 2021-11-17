@@ -58,7 +58,7 @@ ul {
     width: 400px; height: 300px;
 }
 
-nav {
+.navbar-brand {
     padding-left: 15px;
 }
 
