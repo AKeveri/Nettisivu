@@ -3,8 +3,50 @@
     padding-left: 15px;
 }
 
+h2 {
+    padding-top: 60px; padding-left: 240px;
+}
+
+.otsikko1 {
+    padding-left: 250px; padding-top: 60px;
+    color: rgb(82, 82, 82);
+}
+
+h3 {
+    padding-top: 100px; padding-left: 145px;
+}
+
+.img123 {
+    width: 400px; height: 300px;
+}
 
 
+.linkkilista ul li a {
+    font-size: 130%; text-decoration: none;
+    color: black;
+   
+   
+}
+
+.linkkilista ul li {
+    padding-top: 20px;
+}
+
+ul {
+    list-style: none;
+}
+
+#muu {
+    padding-top: 55px; padding-left: 150px;
+}
+
+#muut {
+    padding-top: 55px; padding-left: 150px;
+}
+
+.linkkilista ul li a:hover {
+    transition: all 1s; color: red;
+}
 
 
 
