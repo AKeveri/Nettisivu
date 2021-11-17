@@ -4,11 +4,11 @@
 }
 
 h2 {
-    padding-top: 60px; padding-left: 240px;
+    padding-top: 60px; padding-left: 145px;
 }
 
 .otsikko1 {
-    padding-left: 250px; padding-top: 30px;
+    padding-left: 160px; padding-top: 30px;
     color: rgb(82, 82, 82);
 }
 
@@ -61,12 +61,12 @@ ul {
 }
 
 .kuva1 {
-    width: 420px; height: 350px;
+    width: 450px; height: 350px;
     
 }
 
 .kuva2 {
-    width: 420px; height: 350px;
+    width: 450px; height: 350px;
 }
 
 
