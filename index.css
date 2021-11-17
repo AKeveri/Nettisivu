@@ -8,23 +8,21 @@ p {
     color: rgb(156, 156, 156); 
 }
 
-.col-sm-12 { padding-left: 700px; padding-bottom: 20px;
+.col-sm-12 { padding-left: 600px; padding-bottom: 20px;
 
 }
 
 #Tennis {
     padding-top: 50px;
-    padding-right: 120px; padding-left: 120px;
+    padding-right: 120px; padding-left: 100px;
 }
 
 #Padel {
     padding-top: 50px;
-    padding-right: 120px; padding-left: 120px;
+    padding-right: 120px; padding-left: 100px;
 }
 
-.col-sm-6 {
-    padding-left: 310px; padding-top: 10px;
-}
+
 
 .figure {
     padding: 10px;
@@ -37,6 +35,8 @@ a {
 #teksti1 {
     font-size: 300%; color: black;
     text-decoration: none; 
+    padding-top: 10px;
+    padding-left: 170px;
 }
 a:hover {
     transition: all 1.5s; color: red; font-size: 120%;
@@ -46,6 +46,8 @@ a:hover {
 #teksti2 {
     font-size: 300%; color: black;
     text-decoration: none; 
+    padding-top: 10px;
+    padding-left: 270px;
 }
 
 footer {
