@@ -8,11 +8,11 @@ h2 {
 }
 
 .otsikko1 {
-    padding-left: 250px; padding-top: 60px;
+    padding-left: 250px; padding-top: 30px;
     color: rgb(82, 82, 82);
 }
 
-h3 {
+h4 {
     padding-top: 100px; padding-left: 145px;
 }
 
@@ -48,17 +48,34 @@ ul {
     transition: all 1s; color: red;
 }
 
+.tärkeintä h5 {
+    padding-left: 100px; padding-top: 100px;
+}
+
+.pelitaidot h5 {
+    padding-left: 130px; padding-top: 100px;
+}
+
+.kuvia {
+    padding-left: 100px; padding-top: 20px;
+}
+
+.kuva1 {
+    width: 420px; height: 350px;
+    
+}
+
+.kuva2 {
+    width: 420px; height: 350px;
+}
 
 
-
-
-
-
-
-
-
-
-
+footer {
+    padding-top: 50px; text-align: center;
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+    
+}
 
 #clockDisplay {
     font-family: arial;
