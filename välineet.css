@@ -3,17 +3,17 @@
     padding-left: 15px;
 }
 
-h2 {
-    padding-top: 60px; padding-left: 145px;
+h1 {
+    padding-top: 60px; padding-left: 150px;
 }
 
 .otsikko1 {
-    padding-left: 160px; padding-top: 30px;
+    padding-left: 50px; padding-top: 30px;
     color: rgb(82, 82, 82);
 }
 
 h4 {
-    padding-top: 100px; padding-left: 145px;
+    padding-top: 100px; padding-left: 150px;
 }
 
 .img123 {
@@ -37,11 +37,11 @@ ul {
 }
 
 #muu {
-    padding-top: 55px; padding-left: 150px;
+    padding-top: 55px; padding-left: 35px;
 }
 
 #muut {
-    padding-top: 55px; padding-left: 150px;
+    padding-top: 55px; padding-left: 35px;
 }
 
 .linkkilista ul li a:hover {
@@ -49,24 +49,24 @@ ul {
 }
 
 .tärkeintä h5 {
-    padding-left: 100px; padding-top: 100px;
+    padding-left: 35px; padding-top: 100px;
 }
 
 .pelitaidot h5 {
-    padding-left: 130px; padding-top: 100px;
+    padding-left: 40px; padding-top: 100px;
 }
 
 .kuvia {
-    padding-left: 100px; padding-top: 20px;
+    padding-left: 50px; padding-top: 20px;
 }
 
 .kuva1 {
-    width: 450px; height: 350px;
+    width: 500px; height: 400px;
     
 }
 
 .kuva2 {
-    width: 450px; height: 350px;
+    width: 500px; height: 400px;
 }
 
 
