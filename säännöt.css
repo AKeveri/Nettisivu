@@ -23,16 +23,16 @@ h6 {
 }
 
 #Otsikko {
-    padding-left: 100px; padding-top: 60px;
+    padding-left: 35px; padding-top: 60px;
 }
 
 .tekstiosa1 { 
-    padding-left:100px;
+    padding-left:35px;
 
 }
 
 .tekstiosa2 {
-    padding-left: 80px
+    padding-left: 35px
 }
 
 
@@ -52,11 +52,11 @@ img {
 }
 
 .otsikot {
-    padding-top: 30px; padding-left: 60px;
+    padding-top: 50px; padding-left: 35px;
 }
 
 .kuvat {
-    padding-top: 30px; padding-left: 60px;
+    padding-top: 30px; padding-left: 35px;
 }
 
 body {
