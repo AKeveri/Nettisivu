@@ -15,10 +15,13 @@ h4 {
  #muu {
     padding-top: 40px; padding-left: 35px;
 }
+a { 
+    color: black;
+}
 
 .linkkilista ul li a {
     font-size: 120%; text-decoration: none;
-    color: black;
+    
    
 }
 
@@ -103,3 +106,4 @@ a:hover {
     text-decoration: none; color: red;
     font-size: 120%;
 }
+
