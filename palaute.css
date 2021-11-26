@@ -25,7 +25,8 @@ img {
 }
 
 h4 {
-    float: right;
+    text-align: right; padding-top: 30px; padding-bottom: 15px;
+    margin-right: 70px;
 }
 
 
