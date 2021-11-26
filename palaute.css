@@ -1,0 +1,27 @@
+
+.navbar-brand {
+    padding-left: 15px;
+}
+
+footer {
+    padding-top: 50px; text-align: center;
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+    
+}
+
+#clockDisplay {
+    font-family: arial;
+    font-weight: bold;
+    border: 0px solid;
+    width: 340px;
+    padding: 5px;
+    text-align: center;
+    border-radius: 35px;
+    position: absolute; right: 10px;
+    
+}
+
+body {
+    background-color: rgb(214, 214, 214);
+}
