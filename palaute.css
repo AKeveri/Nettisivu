@@ -3,6 +3,33 @@
     padding-left: 15px;
 }
 
+textarea {
+    width: 300px;
+}   
+legend {
+    font-size: 95%;
+}
+
+table, th, td {
+    border: 1px solid black; padding: 5px;
+    background-color: rgb(243, 243, 243);
+    float: left; width: 30%;
+    text-align: center;
+   
+    
+}
+
+img {
+    width: 600px; height: 500px;
+    float: right;
+}
+
+h4 {
+    float: right;
+}
+
+
+
 footer {
     padding-top: 50px; text-align: center;
     color: white;
