@@ -14,7 +14,7 @@ legend {
 
 img {
     width: 600px; height: 500px;
-    float: right;
+    margin-left: 250px;
 }
 
 h4 {
