@@ -11,14 +11,6 @@ legend {
     font-size: 95%;
 }
 
-table, th, td {
-    border: 1px solid black; padding: 5px;
-    background-color: rgb(243, 243, 243);
-    float: left; width: 30%;
-    text-align: center;
-   
-    
-}
 
 img {
     width: 600px; height: 500px;
