@@ -81,7 +81,7 @@ body {
 }
 
 a:hover {
-    transition: all 1.5s; color: red; font-size: 120%;
+    transition: all 1.5s; color: red; 
 }
 
 .uutinen {
